@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
   <!--badges-->
   <div id="badges">
   <a href="https://www.linkedin.com/in/kharisma-adhiguna-85a4b4218/">
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
