@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=KharismaAdhiguna&style=flat-square&color=blue" alt=""/>
   <!--hey there-->
   <h1>
-      hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
