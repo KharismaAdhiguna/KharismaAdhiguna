@@ -30,7 +30,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am an Entry-Level UX Designer, Front-End Developer, and Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an Entry-Level UX Designer, Front-End Developer, and Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 💻 I am currently learning Machine Learning
 - 📚 Learning Calculus and Python
 - 🎮In my free time, I always playing games
