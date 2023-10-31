@@ -57,5 +57,5 @@ I am an Entry-Level UX Designer, Front-End Developer, and Scientist <img src="ht
 
 ---
 ### ✍️ Blog Post :
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END
+<!--BLOG-POST-LIST:START-->
+<!--BLOG-POST-LIST:END-->
